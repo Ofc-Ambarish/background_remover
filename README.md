@@ -1,4 +1,4 @@
-# Background Remover Tool
+# Image Background Remover Tool
 
 A Python tool to remove backgrounds from images using advanced AI algorithms. This tool uses the **rembg** library to process images and remove backgrounds automatically.
 
